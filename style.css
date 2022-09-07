@@ -1,0 +1,36 @@
+body {          
+    font-family: Arial, Helvetica, sans-serif;
+}#logo {
+color: white;
+background-color: black;
+display: inline;
+font-size: 50px;
+font-weight: bold;
+padding: 20px;
+
+}
+#top {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#logo-name { 
+    font-size: 40px;
+    font-weight: bold;
+    margin: 20px;
+
+}
+
+#main {
+    text-align: center;
+    margin-top: 20px;
+font-size: 50px;
+font-weight: bold;
+}
+
+#footer {
+    text-align: center;
+    margin-top: 20px;
+font-size: 50px;
+font-weight: bold;
+}
